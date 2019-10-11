@@ -1,0 +1,1 @@
+this file is used to generate custom code for the ArduPlane 3.8.0 firmware.
